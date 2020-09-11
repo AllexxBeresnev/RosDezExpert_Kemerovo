@@ -46,7 +46,7 @@
 	const CATCHER = 'rosdezexpert-berdsk@yandex.ru';
 	
 	// Тема письма
-	const SUBJECT = 'Заявка с сайта Березовский РосДэзЭксперт';
+	const SUBJECT = 'Заявка с сайта Кемерово РосДэзЭксперт';
 	
 	// Кодировка
   const CHARSET = 'UTF-8';
